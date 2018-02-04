@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tempatMakan" type="id" />
+    <item name="menu2" type="id" />
+    <item name="porsi2" type="id" />
+    <item name="harga2" type="id" />
+</resources>

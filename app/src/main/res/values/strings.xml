@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ENGGAR PUTRA_1202150005_Modul1</string>
+    <string name="judul1" />
+    <string name="tempatMakan" />
+    <string name="menu2" />
+    <string name="porsi2" />
+    <string name="harga2" />
+    <string name="judul2" />
+    <string name="menu_makanan" />
+    <string name="jumlah_porsi" />
+    <string name="button_eatbus" />
+    <string name="button_abnormal" />
+</resources>
